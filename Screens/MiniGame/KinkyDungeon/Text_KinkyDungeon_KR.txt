@@ -2194,8 +2194,8 @@ FLOORNUMBER 층 : DUNGEONNAME
 신성한
 
 
-- Quantity:
-수량:
+- Qty: 
+수량: 
 ### Use One
 
 - way of the fist
@@ -2984,8 +2984,8 @@ DOLMAKER라는 이름이 적힌 지팡이를 집습니다.
 곡괭이
 - Used for drilling holes in rock and armor.
 바위와 갑옷에 구멍을 뚫는 데 사용됩니다.
-- Deals pierce damage. Reduces enemy armor by 15 for 6 turns.
-관통 피해를 줍니다. 6턴 동안 적의 방어력을 15 감소시킵니다.
+- Deals pierce damage. Reduces enemy armor by 20 for 6 turns.
+관통 피해를 줍니다. 6턴 동안 적의 방어력을 20 감소시킵니다.
 ### Magic Flail
 
 - A blessed censer that distributes pain equally.
@@ -5952,7 +5952,7 @@ SCHOOL의 여신이 공격에 대해 투명화를 부여합니다!
 SCHOOL의 여신이 당신을 보호하고 보복합니다!
 - You leave the coins on the altar and they transform into a ItemBought!
 동전을 제단에 두면 아이템 구매로 바뀝니다!
-- object
+- Object
 오브젝트
 
 
@@ -6478,8 +6478,8 @@ Level RestraintLevel(Rarity)
 늑대 팬티
 - A set of vibrating panties designed to help subdue unruly wolfgirls.
 제멋대로인 늑대소녀를 제압하는 데 도움이 되도록 설계된 진동 팬티 세트입니다.
-- It's incredibly tight and difficult to remove once it's clipped on, but the material is rubber.
-엄청나게 빡빡하고 한 번 끼우면 제거하기 어렵지만 재료는 고무입니다.
+### It's incredibly tight and difficult to remove once it's clipped on, but the material is rubber. Type: Teasing, Pleasure, Denial
+### 엄청나게 빡빡하고 한 번 끼우면 제거하기 어렵지만 재료는 고무입니다. 
 
 
 ### You can't equip that.
@@ -9496,8 +9496,8 @@ LifeTime 턴마다 DamageDealt 데미지를 주는 화염의 토네이도입니�
 
 - Raincloud
 비구름
-- After 3 turns, rain falls, creating a 3x3 grid of water and dealing DamageDealt acid damage to enemies within.
-3턴 후에 비가 내려 3x3 물 격자를 만들고 DamageDealt 산성 피해를 내부의 적에게 입힙니다.
+- After 3 turns, rain falls, creating a 3x3 grid of water and dealing DamageDealt soap damage to enemies within.
+3턴 후에 비가 내려 3x3 물 격자를 만들고 DamageDealt 비누 피해를 내부의 적에게 입힙니다.
 - You create a stormy cloud!
 당신은 폭풍우 구름을 만듭니다!
 
@@ -10576,8 +10576,8 @@ CMD: 바인드
 
 ### When enabled: Struggling is more powerful, and your melee attack damage is increased by +20 if your weapon deals physical damage.
 
-- Your body glows with magical energy!
-당신의 몸은 마법의 에너지로 빛납니다!
+### The ground beneath you glows with magical energy!
+### 당신의 몸은 마법의 에너지로 빛납니다!
 
 
 - Enhance Will
@@ -13340,8 +13340,8 @@ EnemyName을 캡처합니다.
 
 ### I can't get free!
 
-- Hey! Where do you think you're going?
-이봐! 어디로 갈 것 같아?
+- Hey! Where do you think you're going~
+이봐! 어디 가는 거야~
 - You look like you're having fun!
 너 재밌어 보여!
 - I have somewhere else in mind for you~
@@ -17630,14 +17630,12 @@ EnemyName을 캡처합니다.
 (SPEAKER 가 침울하게 고개를 끄덕인다)|관심없어?|안타깝네 난 있어~
 - (The SPEAKER grabs you quickly)|Oh, it's very strict~|And great for being trained...
 (SPEAKER 가 당신을 재빨리 붙잡는다)|오, 매우 엄격하다~|그리고 훈련을 받는 것이 좋다...
-- (The SPEAKER looks at you deviously)|You're going to wear this RESTRAINT,|if you want to or not~
-(SPEAKER 가 당신을 사악하게 바라본다)|넌 이 구속구를 입게 될 거야|원하든 원하지 않든간에 말야~
-- (The SPEAKER sulks)|Have it your way then.
-(SPEAKER 가 토라짐)|그럼 마음대로 하세요.
-- (The SPEAKER adds the RESTRAINT)|(You feel her tighten everything before locking it)|Good girl~
-(SPEAKER 가 구속을 추가함)|(그녀가 모든 구속구를 단단하게 조인뒤 잠그는 게 느껴집니다)|착한 아이네~
-- (The SPEAKER pushes you to the ground)|I'll make it extra tight for you~|(The RESTRAINT locks tightly onto you)
-(SPEAKER 가 널 바닥으로 밀어붙인다)|엄청 꽉 조여줄게~|(RESTRAINT 가 단단하게 조여집니다)
+### (The SPEAKER looks at you deviously)|A good girl wears her RESTRAINT with enthusiasm~
+### (SPEAKER 가 당신을 사악하게 바라본다)|넌 이 구속구를 입게 될 거야|원하든 원하지 않든간에 말야~
+### (The SPEAKER sulks)|You'd be difficult to train anyway~
+### (SPEAKER 가 토라짐)|그럼 마음대로 하세요.
+- (The SPEAKER adds the RESTRAINT)|(You feel her tighten everything before locking it)|Good girl~|I'll make it extra tight for you!
+(SPEAKER 가 구속을 추가함)|(그녀가 모든 구속구를 단단하게 조인뒤 잠그는 게 느껴집니다)|착한 아이네~|엄청 꽉 조여줄게!
 
 
 - Maybe a little~
@@ -18342,16 +18340,16 @@ EnemyName을 캡처합니다.
 (SPEAKER 가 비웃는다)|다들 그렇게 말한다.
 - (The SPEAKER frowns)|What a shame.
 (화자가 눈살을 찌푸린다)|안타까운 일이네요.
-- (The SPEAKER grins and reaches for her baton)|No? Well, I heard you have some debts to pay~
-(SPEAKER 가 씩 웃으며 지휘봉을 잡는다)|아니요? 갚아야 할 빚이 있다고 들었는데~
+### (The SPEAKER sneakily reaches for her baton)|You'll love it if you try it!
+### (SPEAKER 가 씩 웃으며 지휘봉을 잡는다)|아니요? 갚아야 할 빚이 있다고 들었는데~
 - (The SPEAKER grins)|I promise you it's a good deal~
 (SPEAKER 가 웃는다)|좋은 거래라고 약속할게요~
 - (The SPEAKER frowns)|Fine. I'll look for other candidates.
 (의장이 눈살을 찌푸린다)|좋아요. 다른 후보자를 찾아보겠습니다.
 - (The SPEAKER smiles)|That's right. Your name, please?
 (SPEAKER 가 웃는다)|맞습니다. 이름을 말씀해 주십시오.
-- (The SPEAKER zaps you and places you in restrictive gear)|Hmph. Unruly girls need training!
-(SPEAKER 가 당신을 재촉하고 제한적인 장비를 착용하게 합니다.)|흠. 제멋대로인 소녀들은 훈련이 필요합니다!
+### (The SPEAKER zaps you and places you in restrictive gear)|Good girls need training.|Come back when you've learned a thing or two~
+### (SPEAKER 가 당신을 재촉하고 제한적인 장비를 착용하게 합니다.)|흠. 제멋대로인 소녀들은 훈련이 필요합니다!
 
 
 - This sounds like an interesting opportunity.
@@ -18416,8 +18414,8 @@ EnemyName을 캡처합니다.
 
 - (The SPEAKER perks her ears as she sees you)|Glory to the blessed kitty!|Are you prepared to join us?
 (SPEAKER 가 당신을 보고 귀를 쫑긋 세웁니다)|축복받은 고양이에게 영광을!|우리와 함께할 준비가 되셨습니까?
-- (The SPEAKER nods happily)|Fantastic! You just need to agree to be nice to cats.|And also we own you now.
-(SPEAKER 가 행복하게 고개를 끄덕인다)|멋지다! 고양이에게 친절하게 대하는 데 동의하기만 하면 된다.|그리고 이제 우리는 당신을 소유하고 있다.
+- (The SPEAKER nods happily)|Fantastic! You just need to agree to be nice to other kitties.|Also we own you now.
+(SPEAKER 가 행복하게 고개를 끄덕인다)|환상적이예요! 다른 고양이들을 친절하게 대하는 데 동의하기만 하면 됩니다.|그리고 이제 당신은 우리의 소유예요.
 - (The SPEAKER jumps happily)|Wonderful! Here's your collar!
 (SPEAKER 가 행복하게 뛰어오른다)|멋지군! 여기 옷깃이야!
 - (The SPEAKER whimpers and looks at you)|How mean!
@@ -18426,10 +18424,10 @@ EnemyName을 캡처합니다.
 (SPEAKER 의 귀가 쫑긋)|아...귀엽다고 생각했는데.
 - (The SPEAKER frowns)|Oh? Well, I guess I'll tell the others~
 (SPEAKER 가 찡그린다)|오? 글쎄, 다른 사람들에게 말할 것 같아요~
-- (The SPEAKER grins slyly)|You wouldn't hurt the kitties, would you?
-(SPEAKER 가 교활하게 웃는다)|당신은 고양이들을 다치게 하지 않을 거에요, 그렇죠?
-- (The SPEAKER frowns)|Then we'll have to make sure you don't come to harm anyone!
-(화자가 눈살을 찌푸린다)|그럼 우리는 당신이 누구에게도 해를 끼치지 않도록 해야 합니다!
+- (The SPEAKER grins slyly)|You wouldn't DISRESPECT the goddess, would you?
+(SPEAKER 가 교활하게 웃는다)|당신은 여신을 무시하지 않겠죠?
+- (The SPEAKER frowns)|Then we'll have to make sure you don't come back to harm anyone!
+(화자가 눈살을 찌푸린다)|그러면 당신이 돌아와서 누구에게도 해를 끼치지 않도록 해야겠어요!
 - (The SPEAKER smiles proudly)|I knew you would pull through!
 (SPEAKER 가 자랑스럽게 웃는다)|당신이 이겨낼 줄 알았어!
 
