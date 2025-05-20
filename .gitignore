@@ -13,6 +13,8 @@
 !/Mods/example_unlimitedbed.zip
 !/Mods/example_enemy/**/*
 !/Mods/example_unlimitedbed/**/*
+!/Mods/language_korean.zip
+!/Mods/language_korean/**/*
 !/Data/**/*
 !/Models/**/*
 !/ModelsBack/**/*

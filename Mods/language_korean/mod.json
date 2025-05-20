@@ -1,0 +1,11 @@
+{
+	"modname": "LLM Korean Translation",
+	"moddesc": "Korean translation using Fine-tuned Gemma 3.",
+	"author": "H4xF",
+	"modbuild": 1,
+	"gamemajor": 5,
+	"gameminor": 4,
+	"gamepatch_min": 67,
+	"gamepatch_max": -1,
+	"priority": 0
+}
